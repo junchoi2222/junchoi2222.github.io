@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Jun Choi"
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Research"
+        href: research.qmd
+      - text: "CV"
+        href: cv.qmd
+      - text: "Teaching"
+        href: teaching.qmd
+  page-footer:
+    center: "© 2026 Jun Choi"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false

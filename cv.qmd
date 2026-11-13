@@ -1,0 +1,40 @@
+---
+title: "Curriculum Vitae"
+---
+
+<!-- 공개용 CV PDF를 files/cv.pdf로 넣은 뒤 아래 줄의 주석을 풀면 다운로드 버튼이 생깁니다.
+[Download CV (PDF)](files/cv.pdf){.btn .btn-outline-primary}
+-->
+
+## Education
+
+- Ph.D. in Economics, Korea University, Present
+- M.A. in Economics, Korea University, February 2025
+- B.A. in History and in Economics, Yeungnam University, February 2023
+
+## Fields of Interest
+
+Labor Economics, History of Economics, Urban Economics, Demography
+
+## Work in Progress
+
+- Jun Choi and Heepyung Cho. "The Impact of the Serious Accidents Punishment Act on Industrial Accidents." Manuscript in preparation.
+- Jun Choi and Sangsoo Lee. "Educational Differentials in Completed Fertility in the Philippines: Evidence from DHS Birth Cohorts, 1960–1970." Manuscript in preparation.
+
+## Teaching Experience
+
+- Teaching Assistant, ECON171 Principles of Economics, Spring 2023
+- Teaching Assistant, ECON201 Intermediate Microeconomics, Fall 2023
+- Teaching Assistant, ECON171 Principles of Economics, 2024–2025
+
+## Academic Presentations
+
+- Ph.D. Conference in Economics, Korea University, 2024
+
+## Software Skills
+
+Stata, R, Python, LaTeX, Microsoft Office
+
+## Languages
+
+Korean (native), English (intermediate)

@@ -1,0 +1,34 @@
+---
+title: "Jun Choi"
+subtitle: "Ph.D. Student in Economics, Korea University"
+about:
+  template: trestles
+  # 사진을 넣으려면 files 폴더에 profile.jpg를 넣고 아래 줄의 #을 지우세요.
+  # image: files/profile.jpg
+  links:
+    - text: Email
+      href: mailto:junchoi2@korea.ac.kr
+    - text: CV
+      href: cv.qmd
+---
+
+I am a Ph.D. student in the Department of Economics at Korea University.
+
+My research interests are in labor economics, history of economics, urban economics, and demography.
+
+## Education
+
+**Korea University** | Seoul, Korea  
+Ph.D. in Economics | Present
+
+**Korea University** | Seoul, Korea  
+M.A. in Economics | February 2025
+
+**Yeungnam University** | Korea  
+B.A. in History and in Economics | February 2023
+
+## Contact
+
+Department of Economics, Korea University  
+145 Anam-ro, Seongbuk-gu, Seoul 02841, Republic of Korea  
+[junchoi2@korea.ac.kr](mailto:junchoi2@korea.ac.kr)
